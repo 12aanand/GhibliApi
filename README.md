@@ -7,7 +7,6 @@ A **full-stack application** built with **Spring Boot (Backend)** and **React (F
 ## 📸 Screenshots
 
 ### 🖥️ Frontend
-![Uploading pexels-ella-olsson-1640773.jpg…]()
 
 
 *(Tip: Put your actual screenshot inside `react-frontend/public/` and name it `screenshot.png`. GitHub will display it here.)*
